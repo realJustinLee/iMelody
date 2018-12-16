@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="iMelody:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/iMelody_jar</output-path>
+    <root id="archive" name="iMelody.jar">
+      <element id="module-output" name="iMelody" />
+    </root>
+  </artifact>
+</component>

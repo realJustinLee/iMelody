@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="iMelody:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a73541ad-70b8-4543-a98f-d492ffb75cf8" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/iMelody/com/lixin/ClientLauncher$MyLoginListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/iMelody/com/lixin/ClientLauncher$MyLoginListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/iMelody/com/lixin/ClientLauncher$MyQuitListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/iMelody/com/lixin/ClientLauncher$MyQuitListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/iMelody/com/lixin/ClientLauncher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/iMelody/com/lixin/ClientLauncher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/iMelody/com/lixin/MelodyClient$MyClearCheckListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/iMelody/com/lixin/MelodyClient$MyClearCheckListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/iMelody/com/lixin/MelodyClient$MyDownTempoListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/iMelody/com/lixin/MelodyClient$MyDownTempoListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/iMelody/com/lixin/MelodyClient$MyListSelectionListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/iMelody/com/lixin/MelodyClient$MyListSelectionListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/iMelody/com/lixin/MelodyClient$MyLoadListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/iMelody/com/lixin/MelodyClient$MyLoadListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/iMelody/com/lixin/MelodyClient$MySaveListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/iMelody/com/lixin/MelodyClient$MySaveListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/iMelody/com/lixin/MelodyClient$MySendListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/iMelody/com/lixin/MelodyClient$MySendListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/iMelody/com/lixin/MelodyClient$MyStartListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/iMelody/com/lixin/MelodyClient$MyStartListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/iMelody/com/lixin/MelodyClient$MyStopListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/iMelody/com/lixin/MelodyClient$MyStopListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/iMelody/com/lixin/MelodyClient$MyUpTempoListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/iMelody/com/lixin/MelodyClient$MyUpTempoListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/iMelody/com/lixin/MelodyClient$RemoteReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/iMelody/com/lixin/MelodyClient$RemoteReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/iMelody/com/lixin/MelodyClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/iMelody/com/lixin/MelodyClient.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/lixin/MelodyClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="341" column="51" selection-start-line="341" selection-start-column="51" selection-end-line="341" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lixin/ClientLauncher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2221#2222#0" expanded="true" />
+                <element signature="e#2259#2260#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>checkBox</find>
+      <find>instruments</find>
+      <find>2</find>
+      <find>read</find>
+      <find>exception</find>
+      <find>”</find>
+      <find>“</find>
+      <find>changeSequence</find>
+      <find>selectionState</find>
+      <find>oos</find>
+      <find>iOOS</find>
+      <find>.getText</find>
+      <find>startU</find>
+      <find>TExtField</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>ex</replace>
+      <replace>&quot;</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/BeatBox.java" />
+        <option value="$PROJECT_DIR$/src/aaa.form" />
+        <option value="$PROJECT_DIR$/src/Launcher.java" />
+        <option value="$PROJECT_DIR$/src/ClientLauncher.java" />
+        <option value="$PROJECT_DIR$/src/com/lixin/BeatBox.java" />
+        <option value="$PROJECT_DIR$/src/com/lixin/ClientLauncher.java" />
+        <option value="$PROJECT_DIR$/src/com/lixin/MelodyClient.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="956" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="iMelody" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iMelody" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iMelody" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iMelody" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iMelody" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iMelody" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lixin" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/lixin/GitHub/JavaHead/BeatBox/src/Main.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538548169678" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ClientLauncher">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lixin.ClientLauncher" />
+      <module name="iMelody" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lixin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="iMelody" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MelodyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lixin.MelodyClient" />
+      <module name="iMelody" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.MelodyClient" />
+      <item itemvalue="Application.ClientLauncher" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientLauncher" />
+        <item itemvalue="Application.MelodyClient" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a73541ad-70b8-4543-a98f-d492ffb75cf8" name="Default" comment="" />
+      <created>1510215420852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1510215420852</updated>
+      <workItem from="1510215422511" duration="2841000" />
+      <workItem from="1510218793169" duration="3124000" />
+      <workItem from="1510230457718" duration="2182000" />
+      <workItem from="1510237626496" duration="1426000" />
+      <workItem from="1510580024143" duration="4476000" />
+      <workItem from="1510590858295" duration="944000" />
+      <workItem from="1513012336740" duration="19000" />
+      <workItem from="1513148793490" duration="8707000" />
+      <workItem from="1513220366208" duration="44000" />
+      <workItem from="1513225379448" duration="101000" />
+      <workItem from="1513235160611" duration="35000" />
+      <workItem from="1513235230000" duration="17000" />
+      <workItem from="1513436207619" duration="226000" />
+      <workItem from="1513436456047" duration="1104000" />
+      <workItem from="1513488751492" duration="19000" />
+      <workItem from="1513526932839" duration="352000" />
+      <workItem from="1513591746228" duration="200000" />
+      <workItem from="1513756330337" duration="191000" />
+      <workItem from="1519775743665" duration="186000" />
+      <workItem from="1519839514645" duration="79000" />
+      <workItem from="1520239496875" duration="138000" />
+      <workItem from="1520239678315" duration="221000" />
+      <workItem from="1520239934583" duration="6270000" />
+      <workItem from="1520249191541" duration="140000" />
+      <workItem from="1520404131028" duration="724000" />
+      <workItem from="1520786142519" duration="3229000" />
+      <workItem from="1520789574856" duration="232000" />
+      <workItem from="1520790737970" duration="57000" />
+      <workItem from="1520790847371" duration="305000" />
+      <workItem from="1520791756286" duration="62000" />
+      <workItem from="1521649867297" duration="14000" />
+      <workItem from="1533878507410" duration="222000" />
+      <workItem from="1533878756491" duration="442000" />
+      <workItem from="1538547599892" duration="603000" />
+      <workItem from="1538548255609" duration="78000" />
+      <workItem from="1544698032908" duration="183000" />
+      <workItem from="1544700796465" duration="287000" />
+      <workItem from="1544854248319" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="39497000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="956" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21733822" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32867885" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32407406" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39864865" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32919955" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3287037" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32873806" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.434238" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32867885" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32844242" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39864865" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32919955" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3299435" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32873806" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/AbstractButton.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/io/ObjectInputStream.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Thread.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/lixin/MelodyClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="341" column="51" selection-start-line="341" selection-start-column="51" selection-end-line="341" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lixin/ClientLauncher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2221#2222#0" expanded="true" />
+            <element signature="e#2259#2260#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>iMelody:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>iMelody</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
